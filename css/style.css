@@ -12,7 +12,18 @@ body{
 }
 
 header{
+    margin-top: 20px;
+    box-sizing: border-box;
     padding-top: 30px;
+    height: 90vh;
+    background-image: url("../img/fundo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 3em;
 }
 
 header h1{
